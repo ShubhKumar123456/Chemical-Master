@@ -14,7 +14,7 @@ To get started with Chemicals Master, follow these steps:
 
 **Clone the repository:**
 
-git clone https://github.com/your-username/chemicals-master.git
+git clone https://github.com/ShubhKumar123456/chemicals-master.git
 cd ChemicalsMaster
 
 **Install the Gaia Node by running the following command:**
